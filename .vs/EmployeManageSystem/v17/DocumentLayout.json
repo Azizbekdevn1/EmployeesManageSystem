@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Azizbek\\EmployeManageSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{006404BB-C24C-498D-A4FD-BAC955ACFFC7}|EmployeManageSystem\\EmployeManageSystem.csproj|d:\\azizbek\\employemanagesystem\\employemanagesystem\\addressform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006404BB-C24C-498D-A4FD-BAC955ACFFC7}|EmployeManageSystem\\EmployeManageSystem.csproj|solutionrelative:employemanagesystem\\addressform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006404BB-C24C-498D-A4FD-BAC955ACFFC7}|EmployeManageSystem\\EmployeManageSystem.csproj|D:\\Azizbek\\EmployeManageSystem\\employemanagesystem\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{006404BB-C24C-498D-A4FD-BAC955ACFFC7}|EmployeManageSystem\\EmployeManageSystem.csproj|solutionrelative:employemanagesystem\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006404BB-C24C-498D-A4FD-BAC955ACFFC7}|EmployeManageSystem\\EmployeManageSystem.csproj|D:\\Azizbek\\EmployeManageSystem\\employemanagesystem\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006404BB-C24C-498D-A4FD-BAC955ACFFC7}|EmployeManageSystem\\EmployeManageSystem.csproj|solutionrelative:employemanagesystem\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006404BB-C24C-498D-A4FD-BAC955ACFFC7}|EmployeManageSystem\\EmployeManageSystem.csproj|D:\\Azizbek\\EmployeManageSystem\\employemanagesystem\\addressform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{006404BB-C24C-498D-A4FD-BAC955ACFFC7}|EmployeManageSystem\\EmployeManageSystem.csproj|solutionrelative:employemanagesystem\\addressform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006404BB-C24C-498D-A4FD-BAC955ACFFC7}|EmployeManageSystem\\EmployeManageSystem.csproj|D:\\Azizbek\\EmployeManageSystem\\employemanagesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006404BB-C24C-498D-A4FD-BAC955ACFFC7}|EmployeManageSystem\\EmployeManageSystem.csproj|solutionrelative:employemanagesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006404BB-C24C-498D-A4FD-BAC955ACFFC7}|EmployeManageSystem\\EmployeManageSystem.csproj|D:\\Azizbek\\EmployeManageSystem\\employemanagesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{006404BB-C24C-498D-A4FD-BAC955ACFFC7}|EmployeManageSystem\\EmployeManageSystem.csproj|solutionrelative:employemanagesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006404BB-C24C-498D-A4FD-BAC955ACFFC7}|EmployeManageSystem\\EmployeManageSystem.csproj|D:\\Azizbek\\EmployeManageSystem\\employemanagesystem\\addressform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006404BB-C24C-498D-A4FD-BAC955ACFFC7}|EmployeManageSystem\\EmployeManageSystem.csproj|solutionrelative:employemanagesystem\\addressform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006404BB-C24C-498D-A4FD-BAC955ACFFC7}|EmployeManageSystem\\EmployeManageSystem.csproj|D:\\Azizbek\\EmployeManageSystem\\employemanagesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006404BB-C24C-498D-A4FD-BAC955ACFFC7}|EmployeManageSystem\\EmployeManageSystem.csproj|solutionrelative:employemanagesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Query.cs",
+              "DocumentMoniker": "D:\\Azizbek\\EmployeManageSystem\\EmployeManageSystem\\Query.cs",
+              "RelativeDocumentMoniker": "EmployeManageSystem\\Query.cs",
+              "ToolTip": "D:\\Azizbek\\EmployeManageSystem\\EmployeManageSystem\\Query.cs",
+              "RelativeToolTip": "EmployeManageSystem\\Query.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:10:56.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Query.cs [Design]",
+              "DocumentMoniker": "D:\\Azizbek\\EmployeManageSystem\\EmployeManageSystem\\Query.cs",
+              "RelativeDocumentMoniker": "EmployeManageSystem\\Query.cs",
+              "ToolTip": "D:\\Azizbek\\EmployeManageSystem\\EmployeManageSystem\\Query.cs [Design]",
+              "RelativeToolTip": "EmployeManageSystem\\Query.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:06:58.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddressForm.cs",
+              "DocumentMoniker": "D:\\Azizbek\\EmployeManageSystem\\EmployeManageSystem\\AddressForm.cs",
+              "RelativeDocumentMoniker": "EmployeManageSystem\\AddressForm.cs",
+              "ToolTip": "D:\\Azizbek\\EmployeManageSystem\\EmployeManageSystem\\AddressForm.cs",
+              "RelativeToolTip": "EmployeManageSystem\\AddressForm.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T04:53:14.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddressForm.cs [Design]",
+              "DocumentMoniker": "D:\\Azizbek\\EmployeManageSystem\\EmployeManageSystem\\AddressForm.cs",
+              "RelativeDocumentMoniker": "EmployeManageSystem\\AddressForm.cs",
+              "ToolTip": "D:\\Azizbek\\EmployeManageSystem\\EmployeManageSystem\\AddressForm.cs [Design]",
+              "RelativeToolTip": "EmployeManageSystem\\AddressForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:46:18.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Azizbek\\EmployeManageSystem\\EmployeManageSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "EmployeManageSystem\\Form1.cs",
+              "ToolTip": "D:\\Azizbek\\EmployeManageSystem\\EmployeManageSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "EmployeManageSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:55:57.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Azizbek\\EmployeManageSystem\\EmployeManageSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "EmployeManageSystem\\Form1.cs",
+              "ToolTip": "D:\\Azizbek\\EmployeManageSystem\\EmployeManageSystem\\Form1.cs",
+              "RelativeToolTip": "EmployeManageSystem\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:29:50.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddressForm.Designer.cs",
+              "DocumentMoniker": "D:\\Azizbek\\EmployeManageSystem\\EmployeManageSystem\\AddressForm.Designer.cs",
+              "RelativeDocumentMoniker": "EmployeManageSystem\\AddressForm.Designer.cs",
+              "ToolTip": "D:\\Azizbek\\EmployeManageSystem\\EmployeManageSystem\\AddressForm.Designer.cs",
+              "RelativeToolTip": "EmployeManageSystem\\AddressForm.Designer.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAwwJAAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:32:33.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Azizbek\\EmployeManageSystem\\EmployeManageSystem\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeManageSystem\\Program.cs",
+              "ToolTip": "D:\\Azizbek\\EmployeManageSystem\\EmployeManageSystem\\Program.cs",
+              "RelativeToolTip": "EmployeManageSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:47:07.898Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
