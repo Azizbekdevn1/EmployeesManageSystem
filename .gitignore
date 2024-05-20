@@ -1,1 +1,3 @@
-.vs/*
+.vs/
+.vs-code/*
+.vs-config/
