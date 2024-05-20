@@ -38,3 +38,14 @@ To run this application, you will need to have the following installed:
 To run the application, use the following command:
 ```bash
 dotnet run
+```
+
+
+### Contact
+If you have any questions or suggestions, please open an issue or contact me at azizbekmurodov2003@gmail.com.
+### Usage
+Once the application is running, you can perform the following actions:
+- Add a new employee: Enter the employee's details such as name, position, and salary.
+- Update an employee: Select an existing employee and update their details.
+- View employees: View the list of all employees with their details.
+- Delete an employee: Remove an employee from the system.
